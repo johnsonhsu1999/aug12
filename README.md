@@ -1,7 +1,4 @@
-first line~~
-~~~
-tt r
-thired line~~
+first line~~thired line~~
 sdsdfgd
 
 
